@@ -74,8 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
    Clone the repository
 
-bash   git clone https://github.com/your-username/ielts-institute-website.git
-   cd ielts-institute-website
+bash   git clone https://github.com/anmol-png413/IELTS-institute-home-page-
+   cd ielts-institute-home-page
 
 Install dependencies
 
@@ -87,7 +87,7 @@ bash   npm start
 
 Open your browser
 
-   Navigate to http://localhost:3000
+   Navigate to http://localhost:3000/
 Build for Production
 bashnpm run build
 =======
