@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -89,3 +90,7 @@ Open your browser
    Navigate to http://localhost:3000
 Build for Production
 bashnpm run build
+=======
+# IELTS-institute-home-page-
+Responsive IELTS institute website built with React.js
+>>>>>>> e1ee734f89a719ae417b226f97956b15b77da007

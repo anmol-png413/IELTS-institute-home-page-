@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 /node_modules
 /.pnp
@@ -29,3 +30,19 @@ yarn-error.log*
 
 # OS generated files
 Thumbs.db
+=======
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+>>>>>>> e1ee734f89a719ae417b226f97956b15b77da007
